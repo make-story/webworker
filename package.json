@@ -22,7 +22,7 @@
   "homepage": "https://github.com/make-story/webworker#readme",
   "dependencies": {
     "@babel/core": "^7.12.10",
-    "axios": "^0.21.0",
+    "axios": "^0.21.2",
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "ejs": "3.0.1",
