@@ -1,7 +1,11 @@
+> `https://github.com/make-story/ui.git` 저장소에서 코드 관리  
+
+-----
+
 # WebWorker
 ## https://developer.mozilla.org/ko/docs/Web/API/Web_Workers_API  
 ## https://dassur.ma/things/when-workers/?fbclid=IwAR3ChZhp6tb5Ck6xfqqli1AxDZj9F0ChZz6WNFWloxXXws5gEzfZ7KXrQ3Y  
-  
+
 > 정리문서  
 http://makestory.net/media/#/view/626  
   
